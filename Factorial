@@ -6,7 +6,10 @@ int main()
 
 int size, fact = 1;
 
-cout<<"enter n value: "cin>>size:for(int i = 1 ; i <=size; i++)factf acti
+cout<<"enter n value: ";
+cin>>size;
+for(int i = 1 ; i <=size; i++){
+fact=fact*i;
 
 }
 
