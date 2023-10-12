@@ -1,0 +1,16 @@
+#include<iostream>
+
+using namespace std;
+int main()
+{
+
+int size, fact = 1;
+
+cout<<"enter n value: "cin>>size:for(int i = 1 ; i <=size; i++)factf acti
+
+}
+
+cout <<fact;
+
+return 0;
+}
